@@ -35,12 +35,13 @@
 #Simulacion basada en una condicion externa,
 # Simularemos el crecimiento de una poblacion hasta que alcance un limite.
 
-poblacion =1000
-limite = 5000
-tasa_crecimiento =1.1
+# poblacion =1000
+# limite = 5000
+# tasa_crecimiento =1.1
 
-while poblacion < limite:
-    print(f"Poblacion actual: {poblacion}")
-    poblacion = int (poblacion*tasa_crecimiento)
+# while poblacion < limite:
+#     print(f"Poblacion actual: {poblacion}")
+#     poblacion = int (poblacion*tasa_crecimiento)
 
-print(f"Poblacion final alcanzada: {poblacion}")
+# print(f"Poblacion final alcanzada: {poblacion}")
+
